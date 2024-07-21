@@ -1,1 +1,1 @@
-# java-spring-my-app
+# java-spring-boot-my-app
